@@ -1,1 +1,1 @@
-Scanpick
+# upgraded-guide
